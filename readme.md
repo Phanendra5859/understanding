@@ -1,3 +1,3 @@
 feature 1
 
-2
+2ssh.configure
